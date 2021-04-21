@@ -6,7 +6,7 @@ On Heroku: https://jpa03-doriswei.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-dorinori
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-dorinori/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-dorinori)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-dorinori/branch/main/graph/badge.svg?token=0CmTgboNzt)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-dorinori)
 
 
 ## Integrations
